@@ -6,7 +6,6 @@ import TasksContainer from '@/components/TasksContainer.vue';
 
 <template>
   <div class="content-tasks">
-    <Appbar />
     <TasksContainer />
     <Footer />
   </div>
